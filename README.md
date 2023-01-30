@@ -7,5 +7,6 @@ Repositorio destinado al alojamiento de diversos proyectos de Data Anlaysis.
 
 ---
 ## Índice de proyectos:
-* Uber New York Data Analysis
+* [Uber New York Data Analysis.](UberNewYork/INFORME.md)
+* [Argentina Covid-19 Data Analysis.](ArgentinaCovid19/INFORME.md)
   

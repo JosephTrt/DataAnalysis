@@ -7,10 +7,9 @@ ___
 - ¿Cuáles son las horas con mayor cantidad de actividad?.
 
 
-<h3>
 Con ello en mente, se prosiguió a realizar el siguiente análisis. El cual, se encuentra perfectamente detallado en el 
-notebook titulado: <b>analysis.ipynb</b>.
-</h3>
+ siguiente [notebook.](analysis.ipynb)
+
 
 ### A modo de resumen, podemos decir que:
 ## 1 - Mes con mayor cantidad de actividad
